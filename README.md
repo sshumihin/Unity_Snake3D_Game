@@ -1,2 +1,3 @@
-# Unity_Snake3D_Game
-An Unity game Snake 3D
+# Unity Snake3D Game
+
+<div align="left"><img src="unity_snake3d.jpg"/></div>
